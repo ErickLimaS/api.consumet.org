@@ -11,7 +11,7 @@
             "value": "3000"
         },
         "REDIS_HOST": {
-            "description": "Set redis host, you can create a redis instance on your own or use upstash (https://upstash.com) its for free.",
+            "description": "Set redis host, you can create a redis instance on your own or use upstash (https://upstash.com) its for free. ",
             "value": ""
         },
         "REDIS_PASS": {
